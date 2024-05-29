@@ -1,2 +1,2 @@
-# Serial_In_Browswer
+# Serial_In_Browser
 Control Arduino-like devices from a web browswer
